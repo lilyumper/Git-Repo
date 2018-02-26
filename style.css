@@ -1,0 +1,66 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    border-radius: 10px;
+}
+
+#container {
+    width: 970px;
+    background-color: rgb(20, 20, 107);
+    height: auto;
+    color: white;
+    padding: 10px;
+}
+
+#basics {
+    background-color: black;
+    display: inline-block;
+    width: 67%;
+    height: auto;
+    padding: 21px;
+    vertical-align: top;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin: 7px;
+    left: 100px;
+    top: 4px;
+}
+
+#nav_bar {
+    background-color: red;
+}
+
+#last {
+    background-color: gray;
+}
+
+#links {
+    background-color: teal;
+    display: inline-block;
+    width: 20%;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 12px;
+    vertical-align: 12px;
+    height: auto;
+}
+
+#move {
+    margin-left: 20px;
+}
+
+#blue {
+    color: lightseagreen;
+}
+
+#span {
+    color: blue;
+}
+
+.red {
+    color: darkred;
+}
+
+.stuff {
+    color: lightseagreen;
+}
